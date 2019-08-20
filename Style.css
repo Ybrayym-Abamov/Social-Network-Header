@@ -1,0 +1,45 @@
+header {
+    background: #5668A6;
+    width: 850px;
+    height: 300px;
+    color: white;
+    text-align: center;
+}
+
+div img {
+    width: 150px;
+    height: 150px;
+    float: left;
+    position: relative;
+    top: 15px;
+    left: 15px;
+    border: grey;
+}
+
+/* #TheWhiteBar {
+    background-color: white;
+    height: 50px;
+    width: 850px;
+} */
+
+.UnderlineNavBar {
+    background-color: white;
+    height: 50px;
+    width: 850px;
+    float: left;
+}
+
+/* #TheWhiteBar {   
+    margin-top: 35px;
+} */
+
+.SquareBox {
+    float: left;
+}
+
+
+.NavChoice {
+    display: inline-block;
+    margin-left: 20px;
+    color: black;
+}
